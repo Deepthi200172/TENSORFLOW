@@ -24,7 +24,7 @@ To get started with this project, clone the repository and open `index.html` in 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/tfjs-transfer-learning.git
+    git clone https://github.com/Deepthi200172/TENSORFLOW.git
     ```
 2. Open the `index.html` file in a web browser.
 
